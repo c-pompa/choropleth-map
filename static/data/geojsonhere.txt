@@ -1,0 +1,1 @@
+Download and place GeoJSON to static/data folder: https://www.lacounts.org/dataset/bike-routes-scag-region
